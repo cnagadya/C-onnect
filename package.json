@@ -4,8 +4,8 @@
   "description": "Social Network APP using MERN (MongoDB, Express, React, Node)",
   "main": "\t\t\t\t",
   "scripts": {
-    "start": "node server.js",
-    "serve": "nodemon server.js",
+    "start": "node server/server.js",
+    "serve": "nodemon server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "https://github.com/cnagadya/C-onnect.git",
