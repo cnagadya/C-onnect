@@ -1,0 +1,27 @@
+{
+  "name": "socialnetwork",
+  "version": "1.0.0",
+  "description": "Social Network APP using MERN (MongoDB, Express, React, Node)",
+  "main": "\t\t\t\t",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/cnagadya/C-onnect.git",
+  "author": "cnagadya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.1.6",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^10.4.0"
+  }
+}
